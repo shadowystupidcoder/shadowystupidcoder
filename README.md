@@ -5,9 +5,7 @@
 - LP Analytics and scam token detection/bundler filtering
 - Bundler, freeze bundler
 - Volume Generators
-- Log parsing
 - MEV
-- Swap in + out same TX
 - Copy trade bots
 - Etc
 
