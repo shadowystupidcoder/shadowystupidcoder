@@ -1,4 +1,4 @@
-# Shadowystupidcoder
+# shadowystupidcoder
 
  Some things I've built:  
 - First block sniping
