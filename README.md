@@ -17,5 +17,5 @@ If you want me to build you something, add me and give me the details. There's a
 
 Questions, advertisements, offers, requests, complaints, etc. (I was recently away from PC but am back now for a while at least) add me:
 
-Discord: [shadowystupidcoder]
-TG: [@shadowystupidcoder]
+Discord: shadowystupidcoder
+TG: shadowystupidcoder
