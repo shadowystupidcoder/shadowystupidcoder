@@ -1,16 +1,21 @@
-## Hi there 👋
+# [Shadowystupidcoder]
 
-<!--
-**shadowystupidcoder/shadowystupidcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Some things I've built:  
+- First block sniping
+- LP Analytics and scam token detection/bundler filtering
+- Bundler, freeze bundler
+- Volume Generators
+- Log parsing
+- MEV
+- Swap in + out same TX
+- Copy trade bots
+- Etc
 
-Here are some ideas to get you started:
+If you want me to build you something, add me and give me the details. There's a good chance I've built it or am able to.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Contact
+
+Questions, advertisements, offers, requests, complaints, etc. (I was recently away from PC but am back now for a while at least) add me:
+
+Discord: [shadowystupidcoder]
+TG: [@shadowystupidcoder]
