@@ -2,6 +2,7 @@
 
  Some things I've built:  
 - First block sniping
+- Pump.fun bundlers/snipers
 - LP Analytics and scam token detection/bundler filtering
 - Bundler, freeze bundler
 - Volume Generators
