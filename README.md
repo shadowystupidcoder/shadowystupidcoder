@@ -1,7 +1,7 @@
 # shadowystupidcoder
 
-if youre looking for a unique bot or something oddly specific on solana add me and ill write it for you maybe
+if you want solana bots/code feel free to dm. i've stopped opensourcing everything but if you're looking for it chances are ive already built it.
 
-or for any questions/complaints/tell me about your day/solana bots + mev and/or solana dev add me on discord: shadowystupidcoder
+if you're stuck on something feel free to spam my inbox. i get a lot of dms but i try to reply to them all eventually.
 
-or TG: https://t.me/shadowystupidcoder
+discord: @shadowystupidcoder, tg: https://t.me/shadowystupidcoder
